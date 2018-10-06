@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	WDTCTL = WDTPW | WDTHOLD;       	// Disable the watchdog timer
+	WDTCTL = WDTPW | WDTHOLD;         // Disable the watchdog timer
 
 	P1DIR |= BIT6;                    // Set P1.6 to output
 
