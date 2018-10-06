@@ -11,5 +11,5 @@ The LED on the board being used is located at P1.6. The code uses the button at 
 
 MSP432P401R
 
-The LED on the board being used is located at P2.2. The code uses the button at P1.1. This code used the msp430.h library.
+The LED on the board being used is located at P2.2. The code uses the button at P1.1. This code used the msp432.h library.
 
